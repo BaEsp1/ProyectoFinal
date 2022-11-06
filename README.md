@@ -1,10 +1,10 @@
-# Tech News HTML
+# ProyectoFinal HTML
 ![](./screenshot.png)
 
-# Recomendations
-* Minimize the size of Images
-* put a favicon
+# Explicacion:
+* Me inspiré en el personaje segundario de la serie "Sabrina la bruja adolecente" , Salem.
+Un pequeño gato , que no puede quedarse callado ni permitirse perder el foco de la camara.
+* A medida que se va desarrollando el curso, voy realizando actualizaciones.
 
-# Resources
-* [Pexels.com](https://www.pexels.com/)
-* [HeroPatterns.com](https://www.heropatterns.com/). Death Start is choosen in this project
+# Proyecto Final BA – Multiplica
+* Programación Web Inicial 
