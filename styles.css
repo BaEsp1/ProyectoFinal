@@ -11,6 +11,16 @@ body {
 background-image: url("data:image/svg+xml,%3Csvg width='42' height='44' viewBox='0 0 42 44' xmlns='http://www.w3.org/2000/svg'%3E%3Cg id='Page-1' fill='none' fill-rule='evenodd'%3E%3Cg id='brick-wall' fill='%23810000' fill-opacity='0.32'%3E%3Cpath d='M0 0h42v44H0V0zm1 1h40v20H1V1zM0 23h20v20H0V23zm22 0h20v20H22V23z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
 }
 
+p {
+  font-family: "Oswald", sans-serif;
+    padding: 10px 0;
+    color: #1d1d1d;
+ /*  text-transform: uppercase; */
+    display: inline-block;
+    font-weight: 1000;
+
+}
+
 a {
   color: #000000;
   text-decoration: none;
@@ -218,6 +228,32 @@ hr {
   padding-bottom: 20px;
 }
 
+.capa{
+  width: 100%;
+  height: 500%;
+  position: absolute;
+  opacity:1;
+}
+.parraf{
+  z-index: 1;
+  width: 540px;
+  height: 400px;
+  padding: 20px 20px;
+  font-size: 15px;
+  line-height: 1.5;
+  background-color: rgb(249, 249, 249);
+  box-shadow: 1px 5px 25px rgba(0,0,0,0.45);
+  border-radius: 20px;
+  text-align: justify;
+}
+
+.parraf img{
+  width: 280px;
+  border-radius: 20px;
+  float: right;
+/*   margin-right: 15px ; */
+}
+
 /* Mobil */
 @media (max-width: 700px) {
   .menu-btn {
@@ -292,3 +328,27 @@ hr {
     text-align: center;
   }
 }
+
+/* gif{ 
+  width: 22%;
+  padding: 10px 0 0 10px;
+  color: #ffffff;
+  margin: 20px 0 20px 0;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+} */
+/* contenido{
+  width: 100%;
+}    
+
+contenedor-max {
+      margin: 0 auto;
+      max-width: 1100px;
+}
+
+seccion {
+    align-items: center;
+    display: flex;
+} */
+
