@@ -7,8 +7,8 @@
 
 body {
   font-family: "Oswald", sans-serif;
-  background-color: #eeebdd;
-background-image: url("data:image/svg+xml,%3Csvg width='42' height='44' viewBox='0 0 42 44' xmlns='http://www.w3.org/2000/svg'%3E%3Cg id='Page-1' fill='none' fill-rule='evenodd'%3E%3Cg id='brick-wall' fill='%23810000' fill-opacity='0.32'%3E%3Cpath d='M0 0h42v44H0V0zm1 1h40v20H1V1zM0 23h20v20H0V23zm22 0h20v20H22V23z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+background-image: url("C:\Users\Mauii\Desktop\123\ProyectoFinal-html\img\18410.jpg"); 
+background-color: whitesmoke;
 }
 
 p {
@@ -233,25 +233,27 @@ hr {
   height: 500%;
   position: absolute;
   opacity:1;
-}
+  
+} 
 .parraf{
   z-index: 1;
   width: 540px;
   height: 400px;
-  padding: 20px 20px;
+  padding: 30px 30px;
   font-size: 15px;
   line-height: 1.5;
   background-color: rgb(249, 249, 249);
   box-shadow: 1px 5px 25px rgba(0,0,0,0.45);
   border-radius: 20px;
   text-align: justify;
+  display: inline-block;
 }
 
 .parraf img{
   width: 280px;
   border-radius: 20px;
-  float: right;
-/*   margin-right: 15px ; */
+  float:left ;
+  margin-right: 15px ;
 }
 
 /* Mobil */
